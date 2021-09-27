@@ -48,7 +48,7 @@ class Question {
     this.title.html("MyQuiz Game");
     this.title.position(350, 0);
 
-    this.question.html("Question:- What more can I do more in my projects? (besides being on time 😅) " );
+    this.question.html("Question:- What more can I do in my projects? (besides being on time 😅) " );
     this.question.position(150, 80);
     this.option1.html("1: Add more creative stuff like art and animations!" );
     this.option1.position(150, 100);
